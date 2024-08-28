@@ -44,3 +44,15 @@ p {
     border: 10px solid rgb(124, 19, 110);
     box-shadow: 5px 10px #ce29d3;
 }
+.box {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+  }
+  .btn-custom-gray {
+    background-color: #6c757d; /* Gray background color */
+    border-color: #6c757d; /* Gray border color */
+    color: white; /* White text color */
+}
