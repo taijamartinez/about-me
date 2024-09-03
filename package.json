@@ -1,0 +1,29 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "A personal project to practice coding",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "start": "webpack serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taijamartinez/about-me.git"
+  },
+  "keywords": [
+    "about-me",
+    "about",
+    "me",
+    "taija",
+    "martinez",
+    "practice"
+  ],
+  "author": "Taija Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taijamartinez/about-me/issues"
+  },
+  "homepage": "https://github.com/taijamartinez/about-me#readme"
+}
